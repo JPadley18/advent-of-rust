@@ -2,5 +2,8 @@
 name = "advent-of-rust"
 version = "0.1.0"
 edition = "2021"
+authors = ["Jacob Padley"]
+description = "A helper library for Advent of Code that lets you focus on turning input into solution without the faff."
+repository = "https://github.com/JPadley18/advent-of-rust"
 
 [dependencies]
